@@ -4,7 +4,7 @@
   "description": "",
   "main": "main.js",
   "scripts": {
-    "start": "set NODE_TLS_REJECT_UNAUTHORIZED=0&&ts-node main.js"
+    "start": "set NODE_TLS_REJECT_UNAUTHORIZED=0&&node main.js"
   },
   "keywords": [],
   "author": "",
