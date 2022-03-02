@@ -1,4 +1,6 @@
-# indexing-local-server
+# ⚠️ Deprecated in favor of [Ekisa.Indexing](https://github.com/Ekisa-Team/Ekisa.Indexing) ⚠️
+
+## indexing-local-server
 
 Aplicación de indexación local para leer archivos en tiempo real de una ruta especificada y subirlos a la nube.
 
